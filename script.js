@@ -1,8 +1,8 @@
 let btn1=document.getElementById("btn1");
 let btn2=document.getElementById("btn2");
 // let p=document.getElementsByTagName("p");
-let rgb1="#fff";
-let rgb2="#444";
+let rgb1="#22C1C3";
+let rgb2="#FDBB2D";
 const fun=()=>{
     let hex="0123456789ABCDEF";
     let value="#";
